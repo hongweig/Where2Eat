@@ -1,0 +1,119 @@
+/* App */
+"app.title" = "Where2Eat";
+
+/* Tabs */
+"tab.map" = "Map";
+"tab.list" = "Nearby";
+
+/* Location */
+"location_permission_title" = "Find restaurants near you";
+"location_permission_message" = "Where2Eat uses your location to show nearby dining options.";
+"allow_location" = "Allow Location Access";
+"location_denied_title" = "Location Access Required";
+"location_denied_message" = "Please enable location access in Settings to find restaurants near you.";
+"location_permission_needed" = "Location permission is required to find nearby restaurants.";
+"open_settings" = "Open Settings";
+
+/* Search */
+"searching_nearby" = "Searching nearby…";
+"nearby_restaurants" = "Nearby Restaurants";
+"no_restaurants_found" = "No restaurants found";
+
+/* Restaurant Detail */
+"call" = "Call";
+"website" = "Website";
+"navigate" = "Navigate";
+"done" = "Done";
+"todays_menu" = "Today's Menu";
+
+/* Meal Periods */
+"meal.breakfast" = "Breakfast";
+"meal.lunch" = "Lunch";
+"meal.dinner" = "Dinner";
+
+/* Menu */
+"loading_menu" = "Loading menu…";
+"menu_unavailable" = "Menu not available";
+"menu.section.classic" = "Classics";
+"menu.section.drinks" = "Drinks";
+"menu.section.mains" = "Main Courses";
+"menu.section.sides" = "Sides";
+"menu.section.starters" = "Starters";
+"menu.section.desserts" = "Desserts";
+
+/* Breakfast items */
+"menu.item.oatmeal" = "Oatmeal";
+"menu.item.oatmeal.desc" = "With fresh berries and honey";
+"menu.item.egg_toast" = "Egg Toast";
+"menu.item.egg_toast.desc" = "Scrambled eggs on sourdough";
+"menu.item.fruit_yogurt" = "Fruit Yogurt";
+"menu.item.fruit_yogurt.desc" = "Greek yogurt with seasonal fruit";
+"menu.item.coffee" = "Coffee";
+"menu.item.oj" = "Orange Juice";
+"menu.item.hot_tea" = "Hot Tea";
+
+/* Lunch items */
+"menu.item.caesar_salad" = "Caesar Salad";
+"menu.item.caesar_salad.desc" = "Romaine, parmesan, house-made dressing";
+"menu.item.pasta" = "Pasta of the Day";
+"menu.item.pasta.desc" = "Ask your server for today's selection";
+"menu.item.burger" = "Classic Burger";
+"menu.item.burger.desc" = "180g beef patty, lettuce, tomato, pickles";
+"menu.item.fried_rice" = "Fried Rice";
+"menu.item.fried_rice.desc" = "Wok-fried with egg and vegetables";
+"menu.item.soup" = "Soup of the Day";
+"menu.item.soup.desc" = "Ask your server for today's soup";
+"menu.item.side_salad" = "Side Salad";
+"menu.item.iced_tea" = "Iced Tea";
+"menu.item.soda" = "Soda";
+
+/* Dinner items */
+"menu.item.bruschetta" = "Bruschetta";
+"menu.item.bruschetta.desc" = "Toasted bread with tomato and basil";
+"menu.item.edamame" = "Edamame";
+"menu.item.steak" = "Grilled Steak";
+"menu.item.steak.desc" = "200g sirloin with roasted vegetables";
+"menu.item.salmon" = "Pan-Seared Salmon";
+"menu.item.salmon.desc" = "With lemon butter sauce and asparagus";
+"menu.item.ramen" = "Tonkotsu Ramen";
+"menu.item.ramen.desc" = "Rich pork broth with soft-boiled egg";
+"menu.item.pizza" = "Margherita Pizza";
+"menu.item.pizza.desc" = "Tomato, mozzarella, fresh basil";
+"menu.item.tiramisu" = "Tiramisu";
+"menu.item.tiramisu.desc" = "Classic Italian dessert";
+"menu.item.ice_cream" = "Ice Cream";
+
+/* Categories */
+"category.restaurant" = "Restaurant";
+"category.cafe" = "Café";
+"category.bakery" = "Bakery";
+
+/* Menu - Lounaat */
+"menu.section.lunch" = "Lunch";
+"lunch_menu_week" = "Lunch Menu";
+
+/* Weekdays - short */
+"weekday.short.1" = "Mon";
+"weekday.short.2" = "Tue";
+"weekday.short.4" = "Wed";
+"weekday.short.8" = "Thu";
+"weekday.short.16" = "Fri";
+"weekday.short.32" = "Sat";
+"weekday.short.64" = "Sun";
+
+/* Weekdays - full */
+"weekday.full.1" = "Monday";
+"weekday.full.2" = "Tuesday";
+"weekday.full.4" = "Wednesday";
+"weekday.full.8" = "Thursday";
+"weekday.full.16" = "Friday";
+"weekday.full.32" = "Saturday";
+"weekday.full.64" = "Sunday";
+
+/* Finnish diet labels */
+"diet.l" = "Lactose-free";
+"diet.g" = "Gluten-free";
+"diet.m" = "Dairy-free";
+"diet.v" = "Vegan";
+"diet.vl" = "Low lactose";
+"diet.k" = "Egg-free";

@@ -1,0 +1,119 @@
+/* App */
+"app.title" = "去哪吃";
+
+/* Tabs */
+"tab.map" = "地图";
+"tab.list" = "附近";
+
+/* Location */
+"location_permission_title" = "发现附近餐厅";
+"location_permission_message" = "去哪吃需要获取您的位置，以便推荐附近的用餐选择。";
+"allow_location" = "允许获取位置";
+"location_denied_title" = "需要位置权限";
+"location_denied_message" = "请在设置中开启位置权限，以便搜索附近餐厅。";
+"location_permission_needed" = "需要位置权限才能搜索附近餐厅。";
+"open_settings" = "打开设置";
+
+/* Search */
+"searching_nearby" = "搜索附近…";
+"nearby_restaurants" = "附近餐厅";
+"no_restaurants_found" = "未找到餐厅";
+
+/* Restaurant Detail */
+"call" = "拨号";
+"website" = "官网";
+"navigate" = "导航";
+"done" = "完成";
+"todays_menu" = "今日菜单";
+
+/* Meal Periods */
+"meal.breakfast" = "早餐";
+"meal.lunch" = "午餐";
+"meal.dinner" = "晚餐";
+
+/* Menu */
+"loading_menu" = "菜单加载中…";
+"menu_unavailable" = "暂无菜单信息";
+"menu.section.classic" = "经典款";
+"menu.section.drinks" = "饮品";
+"menu.section.mains" = "主菜";
+"menu.section.sides" = "小食";
+"menu.section.starters" = "前菜";
+"menu.section.desserts" = "甜点";
+
+/* Breakfast items */
+"menu.item.oatmeal" = "燕麦粥";
+"menu.item.oatmeal.desc" = "配新鲜浆果和蜂蜜";
+"menu.item.egg_toast" = "鸡蛋吐司";
+"menu.item.egg_toast.desc" = "炒蛋配酸面包";
+"menu.item.fruit_yogurt" = "水果酸奶";
+"menu.item.fruit_yogurt.desc" = "希腊酸奶配当季水果";
+"menu.item.coffee" = "咖啡";
+"menu.item.oj" = "鲜榨橙汁";
+"menu.item.hot_tea" = "热茶";
+
+/* Lunch items */
+"menu.item.caesar_salad" = "凯撒沙拉";
+"menu.item.caesar_salad.desc" = "罗马生菜、帕玛森芝士、自制酱汁";
+"menu.item.pasta" = "今日意面";
+"menu.item.pasta.desc" = "请询问服务员今日特选";
+"menu.item.burger" = "经典汉堡";
+"menu.item.burger.desc" = "180g牛肉饼、生菜、番茄、酸黄瓜";
+"menu.item.fried_rice" = "炒饭";
+"menu.item.fried_rice.desc" = "鸡蛋蔬菜铁锅翻炒";
+"menu.item.soup" = "今日例汤";
+"menu.item.soup.desc" = "请询问服务员今日例汤";
+"menu.item.side_salad" = "配菜沙拉";
+"menu.item.iced_tea" = "冰茶";
+"menu.item.soda" = "汽水";
+
+/* Dinner items */
+"menu.item.bruschetta" = "意式烤面包";
+"menu.item.bruschetta.desc" = "烤面包配番茄罗勒";
+"menu.item.edamame" = "毛豆";
+"menu.item.steak" = "烤牛排";
+"menu.item.steak.desc" = "200g西冷牛排配烤蔬菜";
+"menu.item.salmon" = "香煎三文鱼";
+"menu.item.salmon.desc" = "配柠檬黄油酱和芦笋";
+"menu.item.ramen" = "猪骨拉面";
+"menu.item.ramen.desc" = "浓郁猪骨汤底配溏心蛋";
+"menu.item.pizza" = "玛格丽特披萨";
+"menu.item.pizza.desc" = "番茄、马苏里拉、新鲜罗勒";
+"menu.item.tiramisu" = "提拉米苏";
+"menu.item.tiramisu.desc" = "经典意式甜点";
+"menu.item.ice_cream" = "冰淇淋";
+
+/* Categories */
+"category.restaurant" = "餐厅";
+"category.cafe" = "咖啡厅";
+"category.bakery" = "面包店";
+
+/* Menu - Lounaat */
+"menu.section.lunch" = "午餐";
+"lunch_menu_week" = "本周午餐菜单";
+
+/* Weekdays - short */
+"weekday.short.1" = "周一";
+"weekday.short.2" = "周二";
+"weekday.short.4" = "周三";
+"weekday.short.8" = "周四";
+"weekday.short.16" = "周五";
+"weekday.short.32" = "周六";
+"weekday.short.64" = "周日";
+
+/* Weekdays - full */
+"weekday.full.1" = "星期一";
+"weekday.full.2" = "星期二";
+"weekday.full.4" = "星期三";
+"weekday.full.8" = "星期四";
+"weekday.full.16" = "星期五";
+"weekday.full.32" = "星期六";
+"weekday.full.64" = "星期日";
+
+/* Finnish diet labels */
+"diet.l" = "无乳糖";
+"diet.g" = "无麸质";
+"diet.m" = "无乳制品";
+"diet.v" = "纯素";
+"diet.vl" = "低乳糖";
+"diet.k" = "无蛋";
